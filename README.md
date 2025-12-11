@@ -67,16 +67,17 @@ Security-focused conversational model.
 
 ---
 
-## 🧊 Glass Stats (Transparent)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-gamma-ashen.vercel.app/api?username=0jokerkiller0&show_icons=true&theme=transparent&border_radius=20&title_color=00eaff&text_color=ffffff" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0jokerkiller0&theme=transparent&border_radius=20&ring=00eaff&currStreakLabel=00eaff" height="170" />
+  <img src="https://github-readme-stats-beryl.vercel.app/api?username=0jokerkiller0&show_icons=true&theme=tokyonight&border_radius=15&v=1" height="170" />
+  <img src="https://streak-stats.demolab.com?user=0jokerkiller0&theme=tokyonight&border_radius=15&v=1" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-gamma-ashen.vercel.app/api/top-langs/?username=0jokerkiller0&layout=compact&theme=transparent&title_color=00eaff&text_color=ffffff&border_radius=20" height="150" />
+  <img src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=0jokerkiller0&layout=compact&theme=tokyonight&border_radius=15&v=1" height="150" />
 </p>
+
 
 
 ---
