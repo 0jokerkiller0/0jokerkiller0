@@ -36,7 +36,7 @@ Multithreaded scanner with progress bars & scan modes.
 ### 🔐 **File Encryption Tool (AES + RSA)**
 Encrypt/Decrypt files with symmetric & asymmetric cryptography.  
 **Tech:** Python, cryptography library  
-🔗 *Upload to GitHub and add link*
+🔗 https://github.com/0jokerkiller0/file-encryption-tool.git
 
 ---
 
@@ -50,7 +50,7 @@ Real-time LSTM-based anomaly detection for Windows traffic.
 ### 🧠 **Chatbot with NLP (Intent Classification)**
 Security-focused conversational model.  
 **Tech:** Python, sklearn, nltk  
-🔗 https://github.com/0jokerkiller0 *(update repo link)*
+🔗 https://github.com/0jokerkiller0/Implementation-of-Chatbot-by-using-NLP
 
 ---
 
