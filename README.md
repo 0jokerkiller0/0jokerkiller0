@@ -70,12 +70,12 @@ Security-focused conversational model.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0jokerkiller0&show_icons=true&theme=tokyonight&border_radius=15" height="170" />
+  <img src="https://github-readme-stats-gamma-ashen.vercel.app/api?username=0jokerkiller0&show_icons=true&theme=tokyonight&border_radius=15" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=0jokerkiller0&theme=tokyonight&border_radius=15" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jokerkiller0&layout=compact&theme=tokyonight&border_radius=15" height="150" />
+  <img src="https://github-readme-stats-gamma-ashen.vercel.app/api/top-langs/?username=0jokerkiller0&layout=compact&theme=tokyonight&border_radius=15" height="150" />
 </p>
 
 ---
